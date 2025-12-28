@@ -166,10 +166,9 @@ export const VideoCard = memo<VideoCardProps>(({
                             );
                         })()}
                     </div>
-                </div>
-            </Card>
-        </Link>
-        </div >
+                </Card>
+            </Link>
+        </div>
     );
 });
 
